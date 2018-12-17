@@ -13,8 +13,8 @@ the belief is that the price should be recovered to some extent.
 Set up your API key in environment variables first.
 
 ```
-$ export APCA_API_KEY_ID=xxx
-$ export APCA_API_SECRET_KEY=yyy
+$ export APCA_API_KEY_ID=AK0D73N2PE6IHYPPX81W
+$ export APCA_API_SECRET_KEY=phR69BpUo08Wil54jyS5vEDb8WyVepX053I9XTEG
 ```
 
 The only dependency is alpaca-trade-api module.  You can set up the environment by
